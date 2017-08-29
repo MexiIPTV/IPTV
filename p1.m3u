@@ -1,21 +1,92 @@
-#EXTM3U
-#EXTINF:-1,A&E
-http://m3u.iptvla.xyz/stream/1.m3u8
-#EXTINF:-1,Alf 24/7
-http://m3u.iptvla.xyz/stream/426.m3u8
-#EXTINF:-1,AMC
-http://m3u.iptvla.xyz/stream/183.m3u8
-#EXTINF:-1,Animal Planet
-http://m3u.iptvla.xyz/stream/3.m3u8
-#EXTINF:-1,AXN
-http://m3u.iptvla.xyz/stream/146.m3u8
-#EXTINF:-1,Az Corazón
-http://m3u.iptvla.xyz/stream/166.m3u8
-#EXTINF:-1,Azteca 13
-http://m3u.iptvla.xyz/stream/4.m3u8
-#EXTINF:-1,Azteca 13 Op. 2
-http://m3u.iptvla.xyz/stream/414.m3u8
-#EXTINF:-1,Azteca 7
-http://m3u.iptvla.xyz/stream/5.m3u8
-#EXTINF:-1,Bandamax
-http://m3u.iptvla.xyz/stream/8.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2q8cya2",Dios no esta muerto 2
+https://1.bp.blogspot.com/4bRyW9b9UNRp3zqObsbEVAhg41U4mFsibFLTm3LUWVEcySDotW-xWAhKVfmZ0GzZSl6XXGQP_XNWhfhjeLllWZwpPbwKdEXpDITFV0VicElUL7jMhKsONBzEdK2u6sNzWH6aFg=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pq8vtQ",Venganza
+https://1.bp.blogspot.com/y601W2uGmQc9PZrMOQ346HritcG87_v3686PA2rQoKYEKdCnS3Zx95nRkqFoM3c7c7Ujvn9v=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2q8L3jC",Crank: Veneno en la sangre
+https://1.bp.blogspot.com/Cgw4vGzQgvmZtnm7AM1la3seENR1mnx55VZeTfSFYTMKsFnF9VunNSseRiQtRkIvGwGJUX4l=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2q7uwwt",Cellular
+https://1.bp.blogspot.com/rCTQDdgf82agslbiPNHuoGEFirNwdx6V6Yuvm7GeB3__lSwThQj_uUk5IhF-28EhB2WebH8=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2q7kHyQ",La invencion de Hugo
+https://1.bp.blogspot.com/IZlWcZY-Ss4BLlnwpInYt_pAjnP_v_fUMsOzpsOqyqlwTbT4pATrcUTZ3Bha0Y8LwKiF9xaXdA=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pooA2N",Repo Men
+https://1.bp.blogspot.com/lQLoF7-5fDF9wijUfepm0l1Coi54zWTNhIsdXcGICH2QXksvJQRF-P3BCfpnzJU9r2XYaYQWheCZ9tihFnJ1ul90l3uMgoWx6qt_tc3P_4TgAPqkwGjIWu3PgleocmwPuYD1pg=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2q2I3WM",RoboCop (2014)
+https://1.bp.blogspot.com/mZ4n8G8roMQY_Pu6-UrpEH3KcdtbQ3mxwYwMYZ-ClfLmw64gwISyET70n0VGdhTp9QXiZ4ed7Q=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2oR9LRH",Los cuatro fantasticos
+https://1.bp.blogspot.com/Wj5OrSSh2ShZmR_T63JLNMdRECjzGoIbhd4upDpopnU=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2oEZ44v",Hombres de negro 3
+https://1.bp.blogspot.com/ZlacIYjDdBGzsoZp68eBiW1fTngxiXkJlrL48mmkYyAKUto2Vt5MQjTdwk6zHyLgR-df0rPBrzZo-qK41srqv2I6rmX4oYdvnGyc9EP30qWzL05pfZuR_Ecsi5iC3tevuz0nSw=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2puk164",xXx 2
+https://1.bp.blogspot.com/a3emAOVldYyVxxng9-pOtKzbeCPzOpYKLwflxOwJKWmDmWNGmipU0xq-afgfdqe-0EC1gpuoz2UcPsmh2tqqwMs4b5xkOPFNpsPvVLIYbNTPBrc9bH49ITpNjkv_d2C3E6LBDQ=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pdYoX9",Los vengadores
+https://1.bp.blogspot.com/VNJGRLxRF7JDZxgnsNRY0mSt3DeR4Ajtr-QweRV9M7RvyjVL4wU2gfbFnwiL3jKLdsxL77NfZA=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2oWRZNy",Siempre a tu lado Hachiko
+https://1.bp.blogspot.com/dzbeSw0KIHtlQX8TCSwkrMvPtou-44CGSb30Ag2mcWtMmJZtO0ndIGuLrX5zpquq02FFH5kd=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2oTouMB",Hot Girls Wanted
+https://1.bp.blogspot.com/pybi0bsn625vXCEbgiT-1RLdnldtK8swWEWtsQlOX9w=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2oFEWnA",Blackhat. Amenaza en la red
+https://1.bp.blogspot.com/8SfYD2zn8Ptbwdh4L3R3NsEhTEJ5j30dIFnB9arfSVgd67ZosKg4rLw1jJlic3bkzLcbI-FsvKBsovKIYa9aLWRhr6fUvW-2-qkBkqx9YkfaRZjNVrfMy5QO5CD4BtxvBjzpLQ=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2qUnxFn",Final fantasy: La fuerza interior
+https://1.bp.blogspot.com/pjr8sXKY7HBvhAh5oiV6Hl5LntUPjgvWShrmqG0Myg=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2qnnpNh",Los parecidos
+https://1.bp.blogspot.com/TnZ33B2SdPPF15dsAeIldG3viN7mbZiEygEMVVAtInX9n3x6MfmMvABo4e7yKklmaXyLQyVV97pgohO_RKqZejMHu8sTCzCwXy0ejJ72Efjkr0lTpvqYWr6lWCoBKTP6Oqwrdw=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pGoQKG",Wolf Warriors
+https://1.bp.blogspot.com/LO-PHUL7a-EFbALbRG-s7UnIoGCj2CLNpsRVpoy1HX7il62Fq6xjuW5hcoLl_2GsiwooeuHc9rC9qiskKFmz9Mb_F37UideqzOnpa1AMtAVWDOMedTJ2mLkVH_aiipPby-MHJw=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2oVNVwr",Batman
+https://1.bp.blogspot.com/lUPzKO0Knx0sEF0ZKLpc8oHRSURTyFEgJs-1jRDUBw=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2ppIBEJ",La gran revancha
+https://1.bp.blogspot.com/RqIsgUB12vmrmgqkHWvHzK73u6lFLMpSTV8Ie76qFMk8NSyySj6PqFAh9CSEquq4-Bo9UOu6P9LMmB9Y7UBdXlvGUZ2baJ1DLvTKXEeJAHnlLGipjN5m1nHT2OBSQeiEr_qllA=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2pHhcjf",La vida secreta de Walter Mitty
+https://1.bp.blogspot.com/WUMP0lr_wOYBJrI-9_LAnG9JUTfe-eIm9VZHNzJwlusSTxtDCRiELWEABdvFCF8y9llwC7MW=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2qgrMdV",Hombre en LLamas
+https://1.bp.blogspot.com/tRBPW3bx3O5eBH2bermtnAD4-e1R8TIgQPO_N8-zZ9y9ak7w0w3KXn9vWQEMx2mQjVa3KUqGFw=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pJhlmi",La dama de oro
+https://1.bp.blogspot.com/cFQP1GIz25r92KY5fmEfWh9sLjWb-RH1wjG47dx5TpjHsfvoUvF3ZTtmadP2VNgDMZc0mTvlqUwGAvAgEj1xAnp60yPbZK3CNros83Ll6KAfmNu_l7XcNeYy-HiKN8OHzV28Jw=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2qL5dRL",Caza bajo el sol
+https://1.bp.blogspot.com/1ocEO4tewQp27TGhLAF2JxRhR8IeAvKRdzWa7x10YFkC_EGanu6SctLWqrsQxa_-fHtFYB50fQ=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2q0aWTZ",El Unico
+https://1.bp.blogspot.com/i07zeeTI6fLuPh1jDDXK9y8XGxusePV3ftY8QlNuzECVagw3mbdXJfKYOfTUMxQ_Mah7WnRT=m22?cpn=hhYV-vLMyFdckreV&c=WEB&cver=1.20161130
+#EXTINF:-1 tvg-logo="http://bit.ly/2oYTRcB",Legion de Angeles
+https://1.bp.blogspot.com/y0-4JVj-72B5tzlO4XpRFhbl-sVdzdIZA1VUpd-YBRiAQnmOh3ACB8u6BcTIkDVPLpIpRPKm1Q=m22?cpn=-j6IjfJiwwgI0qKF&c=WEB&cver=1.20161130
+#EXTINF:-1 tvg-logo="http://bit.ly/2p7aX3c",Miracle at St. Anna
+https://1.bp.blogspot.com/JhCjN22TFdYaVQZHrPQGSbcEEoIbKJGUeH6ZicmT0gUbJeDPnUzjrZlIMF284s6Cy3VJOvsR49dzNECKmfdEVX7iB5fI62-01tnJaxueL4O3eLtj8XQ7SNg1MCfuGf9ozoq1Qg=m15
+#EXTINF:-1 tvg-logo="http://bit.ly/2qtoMxM",Tropa de Elite
+https://1.bp.blogspot.com/aDjSqiqwDqpjTmYEqS2jqvoFBoSx-pOYJTpXiFB-64uFXpXMnhsdheBqjjcyzgayQL_AbVI7=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2pZX5wJ",Andron
+https://1.bp.blogspot.com/AdbFPdfuqVuT3w8IOPODzOzzn-eG7AQLITTf0Oz33F0L1JhJD_9LpCmG-UdCbwW6GXaWlEI2qJOQuoMicN96hjbip4l_4NSvtQ=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pt3Sv0",Lo imposible
+https://1.bp.blogspot.com/TAyLF14ZTK7eAU-oxG33i5mbEIq2H8otwNKOqxI0ADDcSBsolOQ5QLpA80j5nqhAhsM0BiO6gQ=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2qU1UEn",El ultimo rey de Escocia
+https://1.bp.blogspot.com/OfiZ5jRSgA0ZK_tSAuRG2YoAiS9qlZoTx3F_wipVg_vT_NUsEB5UexYF17LwGX4SYJr16GnQ_a3fFa9A2hZ4oz9WruIg3VEiBSBZqIyKCGPQjlya54Ew2f7LA5Dgc13OoOTtxg=m15
+#EXTINF:-1 tvg-logo="http://bit.ly/2pH0Ney",Jack Ryan: Operacion Sombra
+https://1.bp.blogspot.com/vAXnKnLCd4i0gzuALZ4ue9d4CRE4AhfNCdtsyMbJnWO2OOftta0bH9aoIz3DuCE9BlpUFsnTVg=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2oQYW20",Pesadillas
+https://1.bp.blogspot.com/vi-eFcteoX5h18cG7jocgiSyeaVt-GmdW48MRj38I_Blq5ye0JUr4cv1yBLSkCN24PD93zj3hWbsMa3BuEHc3UzgtCXfphyjnU7Mpzdcc0MzyHq4FMvWAjLRIC4ah2GkFLABwQ=m15
+#EXTINF:-1 tvg-logo="http://bit.ly/2opERnO",Encontraron el Infierno
+https://1.bp.blogspot.com/IYl3xzF3Upb2QGZmfmKA6U8Oy9Mm_Qi4RVZa-_3mluBeSre7ItiwVz17168hdo8tmrLMp8qE1yL1VXVmrlandBsk9IJK6bE3NjoInTxJQGY8zWsFpuS3BJMVlnJ6Idvs9Ce96A=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2qgtpbJ",The Monkey King 2: The Legend Begins
+https://1.bp.blogspot.com/5HGT2-1qsGLBhcwsqpLRwonL7zLgZmQrGgo9LhxczKrwmwaAPgdnCOS82AKK9ksJ3hhjFtUYwbqybkOKmgfGAaRDMYKoD3qKjdbAlUmMalO4K5xXESjSdbaRJqO6IZiRdlT4HA=m15
+#EXTINF:-1 tvg-logo="http://bit.ly/2peJOAy",Pound of Flesh
+https://1.bp.blogspot.com/mwOPPRy6Bkua1KWJEng-ceRMdnXRtXmNHuVv98FZ6Nl7Uk3RT7X5zJIQg7N1AZXT-ANu5D2u=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pZr3Ri",John Wick, Otro dia para matar
+https://1.bp.blogspot.com/ZUjNvnnyHhYsHdrFZHgDirOaEm9uhQQhgITeYnCMmt2RWc-Ty-pU-TP1ud4t4AjXdKdqO5F_=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2q8zIgl",Kill Bill. Volume 1
+https://1.bp.blogspot.com/HgJFs-gPBXJKhsFDIbV9M6cH-lLo_d-AslpV4Ow8ya1KzNffwdcC0H91mOvnAGm8WxMSIueh=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2pVA0di",Miracle on 34th Street
+https://1.bp.blogspot.com/RdJZ6pKsKqyIeTw_MalufCgrPqX1yCiKzFkoHex9fzcbZkLzloC93ipTaY-rXHmcjHKpyxIrtA=m22?cpn=n3NkgmYxlYS7_buN&c=WEB&cver=1.20161117
+#EXTINF:-1 tvg-logo="http://bit.ly/2pae3o4",Una serie de catastroficas desdichas de Lemony Snicket
+https://1.bp.blogspot.com/EMI5DCNmUEEwfCCQ8UDXqG18uTx52IfyfXUKbz-mip2JO78T8V6bh1uHaWCdUlX-sVkVkDtLhk5sVf_rMwxybwCBukGNXOhBsQ=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2pZSPxa",Cuento de Navidad
+https://1.bp.blogspot.com/T4kb6gnA9zERoGJqIG3riSMmMjxPvJteJSQUuwsEW-_01j0xHIf9fu-_OKCwYDDxmIp3fDuekX1C5pUcjSr_foxFFn2-KGUq1A=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2p2AVtJ",Lanny And Wayne
+https://1.bp.blogspot.com/-pftCRcL01WPPMTF3eaVFcrNdVzB9AO-wpGvjeuz0zPe31AB2nbTXNKvMDUjArY55Aj4-EOEEECIr0C9HN2Dw3nADygdQkDYEA=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2qtwRCy",Mejor... solteras
+https://1.bp.blogspot.com/NX6H4lAUbZ0TwE-dkLpy1Qgtc3hulEcbexlgncVh2_t0vrklS06xvPJxKhdn89fpABpz22dM2-Bz=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2pGmc4x",Donde Esta el Fantasma
+https://1.bp.blogspot.com/xtt8NKWklj8IP_AHCCgMSxuN75B3Pi1kIGmTvU2N46uV7-SeCPimgByeGlA9SMLspcO8JuRHft0l=m37
+#EXTINF:-1 tvg-logo="http://bit.ly/2p9slpa",Absolutamente Fabulosas
+https://1.bp.blogspot.com/fwTCISVx1ZwxgnzbiAAVU45o9NONirEd_KQx9-MWLu32zMOvMlM5Rp-lRePG6z1maiHlTuSuiYYtE4whBRnSjeI00a-ECEqewmdfuBIx2TH3Qid9227GVFPDoRNdlqVibCq_PA=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2qU4cmD",Marley y yo
+https://1.bp.blogspot.com/7zxsXHrwRAYfInGGqr3Uec3Ib-71H5CiTeSZCBH2EIlg5fuRb4vR2lsT2CabIPrLG-nQdZ4t=m22
+#EXTINF:-1 tvg-logo="http://bit.ly/2oRj60K",El guru de las bodas
+https://1.bp.blogspot.com/dQIbw2KpTc5nFpA8wt6DBd-iPrIpc_X1g1BvIiqzUBuygJxU8XLHrQpZ-N2-6gvmGWUYdfvXWe_AlbE1PFBnCaTMqYlcnFm4ZBoyIjw6_paCmj1jXaFnhD92fgpT8wavfNlOkQ=m22
