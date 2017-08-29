@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://m3u.iptvla.xyz/stream/1.m3u8
+#EXTINF:-1,Alf 24/7
+http://m3u.iptvla.xyz/stream/426.m3u8
+#EXTINF:-1,AMC
+http://m3u.iptvla.xyz/stream/183.m3u8
+#EXTINF:-1,Animal Planet
+http://m3u.iptvla.xyz/stream/3.m3u8
+#EXTINF:-1,AXN
+http://m3u.iptvla.xyz/stream/146.m3u8
+#EXTINF:-1,Az Corazón
+http://m3u.iptvla.xyz/stream/166.m3u8
+#EXTINF:-1,Azteca 13
+http://m3u.iptvla.xyz/stream/4.m3u8
+#EXTINF:-1,Azteca 13 Op. 2
+http://m3u.iptvla.xyz/stream/414.m3u8
+#EXTINF:-1,Azteca 7
+http://m3u.iptvla.xyz/stream/5.m3u8
+#EXTINF:-1,Bandamax
+http://m3u.iptvla.xyz/stream/8.m3u8
